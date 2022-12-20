@@ -1,2 +1,2 @@
 # Python-Django-Textutils
-This is Texttutils website created by using Python Django Frame Work
+This is Textutils website created by using Python Django Frame Work

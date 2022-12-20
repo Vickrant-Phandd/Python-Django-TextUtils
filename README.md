@@ -11,6 +11,6 @@ A tool for analyzing text data in Django backend
 4)Extra Spaces Remover
 5)Numbers Remover
 
-#Requirments
-python3
-django
+# Requirments
+1) Python310
+2) Django

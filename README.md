@@ -16,7 +16,7 @@ A tool for analyzing text data in Django backend
 2) Django
 
 ## Home Page
-
+![textutils](https://user-images.githubusercontent.com/90562556/208858619-9123b65e-4dd1-470a-9585-704594b9f1a4.JPG)
 
 ## 🛠 Skills Used
 

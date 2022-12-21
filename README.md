@@ -1,5 +1,5 @@
-# Python-Django-Textutils
-This is Textutils website created by using Python Django Frame Work
+# Python-Django-TextUtils
+This is Textutils website created by using Python Django Framework
 
 # TextUtils
 A tool for analyzing text data in Django backend

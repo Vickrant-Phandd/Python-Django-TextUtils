@@ -24,8 +24,6 @@ A tool for analyzing text data in Django backend
 
 •	Frame Work:  Django
 
-•	Database: MySQL 
-
 •	Libraries: SQLAlchemy | Flask
 
 •	Platforms: Pycharm 
